@@ -1,0 +1,10 @@
+[authentication.service_principal]
+tenant_id = "your-tenant-id"
+client_id = "your-client-id"
+client_secret = "your-client-secret"
+
+[storage]
+enabled = false
+storage_account_name = ""
+container_name = "pdf-reports"
+sas_token = ""
